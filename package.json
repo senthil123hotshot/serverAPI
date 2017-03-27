@@ -1,0 +1,22 @@
+{
+  "name": "findground",
+  "version": "1.0.0",
+  "description": "find the ground in the city",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "senthil",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "dateformat": "^2.0.0",
+    "express": "^4.15.2",
+    "jade": "^1.11.0",
+    "jsonwebtoken": "^7.3.0",
+    "lodash": "^4.17.4",
+    "mysql": "^2.13.0",
+    "path": "^0.12.7"
+  }
+}
